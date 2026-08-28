@@ -2,4 +2,5 @@
 layout: home
 ---
 
-What is Digital Sovereignty?
+What is Digital Sovereignty?  
+The Five Pillars ...
