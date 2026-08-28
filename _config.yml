@@ -1,0 +1,11 @@
+title: Sovereignty WTF
+baseurl: "/"
+author:
+  name: "Mariano Vecchioli"
+  email: "dso@vekiar.com"
+description: >
+  Digital Sovereignty in the Age of Autonomous Intelligence.
+remote_theme: jekyll/minima
+header_pages:
+  - about.md
+minima:
