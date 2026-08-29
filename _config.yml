@@ -3,7 +3,6 @@ baseurl: "/"
 author:
   name: "Digital Sovereignty Office""
   email: "dso@vekiar.com"
-  url: "dso.vekiar.com"
 description: >
   Digital Sovereignty in the Age of Autonomous Intelligence.
 remote_theme: jekyll/minima
