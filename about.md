@@ -3,8 +3,7 @@ title: about
 layout: base
 ---
 
-The Digital Sovereignty Office is an independent company providing advisory, consultancy, and product offerings for regulated industries globally.  
-We ensure that the technology you use to serve customer is under **your** control.  
+The Digital Sovereignty Office is an independent company providing advisory, consultancy, and product offerings for regulated industries globally. We ensure that the technology you use to serve customers is under **your** control.  
 
 Contact us at info@digitalsovereigntyoffice.com for:  
 - Sovereignty Assurance
