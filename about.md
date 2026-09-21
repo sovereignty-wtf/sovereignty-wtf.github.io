@@ -12,4 +12,4 @@ Contact us at info@digitalsovereigntyoffice.com for:
 - Education on Digital Sovereignty and the risks and challenges companies face in the age of autonomous intelligence
 - Custom-purpose built products
 
-Our founding team includes talent of AWS, Google, IBM, and Quantitative Research and Technology Tier-1 companies.  
+Our founding team includes talent of AWS, Google, IBM, and Quantitative Research and Technology Tier-1 companies; as well as the authors of "Digital Sovereignty in the age of Artifical Intelligence" and "Digital Sovereignty: a technical companion".  
