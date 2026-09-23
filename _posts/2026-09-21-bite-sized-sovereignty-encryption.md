@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-09-21
-title: "Byte-sized Sovereignty: Is encryption the holy grail?"
+title: "Bite-sized Sovereignty: Is encryption the holy grail?"
 categories: bite-sized encryption
 ---
 
